@@ -15,7 +15,7 @@ This Code Book summarizes the variables in `tidy.txt`.
 * `3 WALKING_DOWNSTAIRS`
 * `4 SITTING`
 * `5 STANDING`
-* `6 LAYING
+* `6 LAYING`
 
 
 ## Measurements
@@ -32,6 +32,7 @@ These signals were used to estimate variables of the feature vector for each pat
 The set of variables that were estimated from these signals are: 
 
 `Mean`: Mean value
+
 `STD`: Standard deviation
 
 ### List of measurement variables
